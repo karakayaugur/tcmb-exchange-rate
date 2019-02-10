@@ -1,0 +1,21 @@
+{
+  "name": "tcmb",
+  "version": "1.0.0",
+  "description": "Tcmb döviz kurları",
+  "scripts": {},
+  "author": {
+    "name": "Uğur KARAKAYA",
+    "email": "ugurkarakaya1@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "xml2js": "^0.4.19"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
