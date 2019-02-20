@@ -2,7 +2,9 @@
   "name": "tcmb",
   "version": "1.0.0",
   "description": "Tcmb döviz kurları",
-  "scripts": {},
+  "scripts": {
+    "test": "mocha"
+  },
   "author": {
     "name": "Uğur KARAKAYA",
     "email": "ugurkarakaya1@gmail.com"
@@ -18,5 +20,9 @@
   "repository": {
     "type": "git",
     "url": ""
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.0"
   }
 }
